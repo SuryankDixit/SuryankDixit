@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to my Github Profile</h1>
+<h1 align="center">I am Suryank</h1>
 
-<h3 align="center">My Name is Suryank and I like Recreating Things from Scratch.</h3>
+<h2 align="center">I like Recreating Things from Scratch.</h2>
 
 <!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=SuryankDixit alt=Suryank/> </p> -->
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Version-Control-System](https://github.com/SuryankDixit/baby-VCS)
 
-- 👯 I’m looking to collaborate on [teensy-weensy-Database](https://github.com/SuryankDixit/teensy-weensy-Database)
+<!-- - 👯 I’m looking to collaborate on [teensy-weensy-Database](https://github.com/SuryankDixit/teensy-weensy-Database) -->
 
-<!-- - 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) -->
+- 🤔 I’m looking for help with [teensy-weensy-Database](https://github.com/SuryankDixit/teensy-weensy-Database)
 
 - 💬 Ask me about **C, C++, DS-Algos, TCP/IP, DBMS**
 
