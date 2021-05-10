@@ -1,6 +1,6 @@
-<h1 align="center">I am Suryank</h1>
+<h1 align="center">Welcome to my Github</h1>
 
-<h2 align="center">I like Recreating Things from Scratch.</h2>
+<h2 align="center">I re-create things from scratch.</h2>
 
 <!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=SuryankDixit alt=Suryank/> </p> -->
 
