@@ -7,7 +7,7 @@
 <!-- <p align="left"> <a href="https://www.linkedin.com/in/suryank-dixit-858a47169/" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p> -->
 
 
-- 🔭 I’m currently working on [Version-Control-System](https://github.com/SuryankDixit/baby-VCS)
+- 🔭 I’m currently working on [Version-Control-System](https://github.com/SuryankDixit/version-control-system)
 
 <!-- - 👯 I’m looking to collaborate on [teensy-weensy-Database](https://github.com/SuryankDixit/teensy-weensy-Database) -->
 
@@ -16,6 +16,8 @@
 - 💬 Ask me about **C, C++, DS-Algos, TCP/IP, DBMS**
 
 - 📫 Reach me at **suryankdixit@gmail.com**
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuryankDixit&label=Profile%20views&color=0e75b6&style=flat" alt="Suryank" /> </p> 
 
 <!-- - 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io) -->
 
