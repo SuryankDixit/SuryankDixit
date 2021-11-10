@@ -1,10 +1,14 @@
-<h1 align="center">Welcome to my Github</h1>
+<!-- <h1 align="center">Welcome to my Github</h1>
 
-<h2 align="center">I re-create things from scratch.</h2>
+<h2 align="center">I re-create things from scratch.</h2> -->
 
 <!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=SuryankDixit alt=Suryank/> </p> -->
 
 <!-- <p align="left"> <a href="https://www.linkedin.com/in/suryank-dixit-858a47169/" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p> -->
+
+### Hi there<img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  I am Suryank Dixit !
+
+<img align="right" alt="GIF" src="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif" width="380"/>
 
 
 - 🔭 I’m currently working on [E-Commerce app using Microservices built with Node, React, Docker and Kubernetes](https://github.com/SuryankDixit/e-bin)
