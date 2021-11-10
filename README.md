@@ -9,7 +9,7 @@
 ### Hi there<img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  I am Suryank Dixit !
 
 <!-- <img align="right" alt="GIF" src="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif" width="380"/> -->
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fallhtaccess.info%2F25-gif-images-related-to-programming%2F&psig=AOvVaw3qnjBqeH3RK1Eyg--RUwap&ust=1636642731206000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKD0wLiHjvQCFQAAAAAdAAAAABAD" width="380"/>
+<img align="right" alt="GIF" src="https://github.com/SuryankDixit/SuryankDixit/blob/main/programming.gif" width="380"/>
 
 
 - 🔭 I’m currently working on [E-Commerce app using Microservices built with Node, React, Docker and Kubernetes](https://github.com/SuryankDixit/e-bin)
