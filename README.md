@@ -22,7 +22,9 @@
 
 - 📫 Reach me at **suryankdixit@gmail.com  || [LinkedIn- Suryank Dixit](https://www.linkedin.com/in/suryank-dixit-858a47169/)**
 
-- 😄 Fun facts: Dolores Umbridge Went To Azkaban. (You will get this if you are potterhead.)
+- 🌱 We can give and take each other's technical mock interview and help in growing.
+
+- 😄 Fun fact: Dolores Umbridge Went To Azkaban. (You will get this if you are potterhead.)
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuryankDixit&label=Profile%20views&color=0e75b6&style=flat" alt="Suryank" /> </p> 
 
@@ -38,5 +40,5 @@
 <!-- <a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/rahul_dk_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a> -->
 <!-- </p> -->
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/> 
+<!-- <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/>  -->
 
