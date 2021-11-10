@@ -11,7 +11,7 @@
 
 <!-- - 👯 I’m looking to collaborate on [teensy-weensy-Database](https://github.com/SuryankDixit/teensy-weensy-Database) -->
 
-- 🤔 I’m looking for help with Design Patterns. If you are interested , we can learn together about Low level design and Design Patterns.
+- 🤔 I’m looking for help with Design Patterns. If you are interested , we can learn about Low level design and Design Patterns together.
 
 - 💬 Ask me about **Data Structures and Algorithms, Computer Networks, Database Management, C, C++**
 
