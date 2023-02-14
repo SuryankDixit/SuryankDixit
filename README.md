@@ -27,6 +27,7 @@
 - 😄 Fun fact: Dolores Umbridge Went To Azkaban. (You will get this if you are potterhead.)
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuryankDixit&label=Profile%20views&color=0e75b6&style=flat" alt="Suryank" /> </p> 
+- <p align="center"> <img src="https://github.com/tejas-trivedi/tejas-trivedi/raw/output/github-contribution-grid-snake.svg"alt="snake"></center></p>
 
 <!-- - 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io) -->
 
