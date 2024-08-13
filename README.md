@@ -11,14 +11,15 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif" width="380"/> -->
 <img align="right" alt="GIF" src="https://github.com/SuryankDixit/SuryankDixit/blob/main/programming.gif" width="380"/>
 
+- 🔭 I’m Software Developer in Amazon.
 
-- 🔭 I’m currently working on [E-Commerce app using Microservices built with Node, React, Docker and Kubernetes](https://github.com/SuryankDixit/e-bin)
+- 👯 My last self project was [E-Commerce app using Microservices built with Node, React, Docker and Kubernetes](https://github.com/SuryankDixit/e-bin)
 
 <!-- - 👯 I’m looking to collaborate on [teensy-weensy-Database](https://github.com/SuryankDixit/teensy-weensy-Database) -->
 
 - 🤔 I’m looking for help with Design Patterns. If you are interested , we can learn about Low level design and Design Patterns together.
 
-- 💬 Ask me about **Data Structures and Algorithms, Computer Networks, Database Management, C, C++**
+- 💬 Ask me about **Data Structures and Algorithms, Computer Networks, Database Management, C, C++, Projects**
 
 - 📫 Reach me at **suryankdixit@gmail.com  || [LinkedIn- Suryank Dixit](https://www.linkedin.com/in/suryank-dixit-858a47169/)**
 
