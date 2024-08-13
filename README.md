@@ -11,7 +11,7 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif" width="380"/> -->
 <img align="right" alt="GIF" src="https://github.com/SuryankDixit/SuryankDixit/blob/main/programming.gif" width="380"/>
 
-- 🔭 I’m Software Developer in Amazon.
+- 🔭 I’m a Software Developer in Amazon.
 
 - 👯 My last self project was [E-Commerce app using Microservices built with Node, React, Docker and Kubernetes](https://github.com/SuryankDixit/e-bin)
 
